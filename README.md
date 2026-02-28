@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ShaunakMore.<br>🌱 I’m currently learning AI & ML.<br>💬 Ask me about technology.<br>⚡ Fun fact: I am Shaunak, people call me Shaun The Sheep.
+👋 Hi, I’m @ShaunakMore.<br>🌱 I’m currently learning AI & ML.<br>💬 Ask me about technology.<br>⚡ Fun fact: People call me Shaun The Sheep.
 
 
 ## 🌐 Socials:
